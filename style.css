@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+}
+
+footer {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.footer-description {
+  font-size: 14px;
+  margin-top: 10px;
+  color: #777777;
+}
